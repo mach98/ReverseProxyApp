@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TVEtuMRFbr/AzG3dJu2ggrCa3/U4RNXukVhr7N08pog=",
+  "Source": "ReverseProxyApp",
+  "BasePath": "_content/ReverseProxyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
